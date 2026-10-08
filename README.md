@@ -239,4 +239,4 @@ Tarisland is available as a full free version for Windows, offering all features
 Ready to embark on your adventure? **Download Tarisland for free and start your journey today!**
 
 ---
-**Last updated:** 2026-10-07 23:27:38 UTC
+**Last updated:** 2026-10-08 04:48:54 UTC
